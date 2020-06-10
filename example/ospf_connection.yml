@@ -1,0 +1,31 @@
+env:
+    node1:
+        hostname: 192.168.0.116
+        username: admin
+        password: 12345678
+        port: 22
+    node2:
+        hostname: 192.168.0.110
+        username: admin
+        password: 12345678
+        port: 22
+    node3:
+        hostname: 192.168.0.108
+        username: admin
+        password: 12345678
+        port: 22
+    node4:
+        hostname: 192.168.0.109
+        username: admin
+        password: 12345678
+        port: 22
+    node5:
+        hostname: 192.168.0.115
+        username: admin
+        password: 12345678
+        port: 22
+    node6:
+        hostname: 192.168.0.114
+        username: admin
+        password: 12345678
+        port: 22

@@ -1,0 +1,6 @@
+execute.log
+dot
+qdot
+*.pdf
+stats.json
+reports
